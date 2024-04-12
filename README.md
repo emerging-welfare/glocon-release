@@ -1,2 +1,5 @@
 # glocon-release
 This is a repository that provides information for people who want to use GLOCON (https://glocon.ku.edu.tr/).
+
+
+Global Contentious Politics Dataset ([GLOCON](https://glocon.ku.edu.tr/)), a comprehensive and fully automatically curated resource of social movements, protests, and conflict. This dataset is the result of an extensive research effort funded by the European Research Council (ERC) and leverages the latest advancements in Artificial Intelligence, Natural Language Processing, and Machine Learning to analyze and catalog instances of contentious politics in Argentina, Brazil, India, South Africa, and Turkey, and in some additional countries in the future. Please find [here](https://www.youtube.com/watch?v=NLHUjYXUSu0) the YouTube video of the project. The dataset is hosted by the [Center for Computational Social Sciences](https://ccss.ku.edu.tr/) at Koç University.
